@@ -1,0 +1,40 @@
+
+/* General container styling */
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+/* Header styling */
+h5 {
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Table styling */
+#aveTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#aveTable th, #aveTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#aveTable th {
+    background-color: #4CAF50;
+    color: white;
+}
