@@ -38,7 +38,7 @@ img {
     background-color: #4CAF50;
     color: white;
 }
-div.gcse-search {
+.gcse-search {
     align: right;
-    width: 500 px;
+    width: 100 px;
 }
