@@ -38,3 +38,7 @@ img {
     background-color: #4CAF50;
     color: white;
 }
+div.gcse-search {
+    align: right;
+    width: 500 px;
+}
